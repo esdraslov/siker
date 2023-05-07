@@ -1,0 +1,5 @@
+.prettierignore
+.replit
+replit.nix
+.config
+.git
